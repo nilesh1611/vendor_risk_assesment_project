@@ -1,0 +1,12 @@
+Django>=4.2
+djangorestframework
+djangorestframework-simplejwt
+mysqlclient
+redis
+django-redis
+drf-spectacular
+celery
+pytest
+pytest-django
+coverage
+python-dotenv
